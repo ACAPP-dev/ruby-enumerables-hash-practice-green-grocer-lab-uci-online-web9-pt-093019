@@ -54,6 +54,7 @@ end
 
 def checkout(cart, coupons)
   # code here
+  hash_cart = consolidate_cart(cart)
   
   
 end
